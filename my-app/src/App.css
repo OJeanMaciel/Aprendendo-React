@@ -1,0 +1,19 @@
+header{
+  margin: 0px !important;
+  background-color: #20232a !important;
+  color: #61dafb;
+}
+
+section{
+  margin-top: 30px;
+}
+
+footer{
+  margin: 0px !important;
+  background-color: #282c34 !important;
+  color: #61dafb;
+  height: 50px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
